@@ -1,31 +1,38 @@
-Customer-Churn-Prediction
+
+# Customer-Churn-Prediction
+ 
+ 
 This project is for telecommunication Churn prediction: detecting which customers are likely to cancel a subscription based on how they use the service. It aims to develop and design an effective and efficient model.
 
-Data Preparation Steps
-Data Conversion
+## Data Preparation Steps
 
-Sparseness Elimination
+1. Data Conversion
 
-Outliers Detection
+2. Sparseness Elimination
 
-Features selection
+3. Outliers Detection
 
-Data Encoding
+4. Features selection
 
-Data Standardization
+5. Data Encoding
 
-Implemented Models
-Gradient Boost
-KNN
-xgBoost
-Decision Tree
-AdaBoost
-Random Forest
-Logistic Regression
-Gaussian NB
-SVM
-Evaluation
-Trains and test scores
-Accuracy
-Classification Report
-Confusion Matrix
+6. Data Standardization
+
+## Implemented Models 
+1. Gradient Boost
+2. KNN
+3. xgBoost
+4. Decision Tree
+5. AdaBoost
+6. Random Forest
+7. Logistic Regression
+8. Gaussian NB
+9. SVM
+
+## Evaluation 
+1. Trains and test scores
+2. Accuracy
+3. Classification Report
+4. Confusion Matrix
+
+
